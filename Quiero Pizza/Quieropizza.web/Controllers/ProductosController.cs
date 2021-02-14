@@ -22,7 +22,7 @@ namespace Quieropizza.web.Controllers
 
             var producto3 = new ProductoModel();
             producto3.id = 1;
-            producto3.Descripcion = "Pizza jamon y queso";
+            producto3.Descripcion = "Pizza jamon y quesoo";
 
             var listadeProductos = new List<ProductoModel>();
             listadeProductos.Add(producto1);
